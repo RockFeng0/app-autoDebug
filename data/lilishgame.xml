@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<root>    
+	<LoginUI des="登录页面">
+		<DuoKu des = "多酷">
+			<by>index</by>
+			<value>[0,1]</value>
+            <parent>id/psts_title</parent>
+		</DuoKu>
+		<Baidu des = "百度">
+			<by>index</by>
+			<value>[0,0]</value>
+            <parent>id/psts_title</parent>
+		</Baidu>
+    </LoginUI>
+    <Login>
+		<Username des = "登录框">
+			<by>id</by>
+			<value>id/edt_account</value>
+			<timeout/>
+		</Username>
+		<Password des = "密码框">
+			<by>id</by>
+			<value>id/edt_pass</value>
+			<timeout/>
+		</Password>
+        <Ok des = "登录">
+			<by>id</by>
+			<value>id/btn_login</value>
+			<timeout/>
+		</Ok>
+	</Login>
+    
+	<Main des="登录页面">
+		<Goin des = "进入游戏">
+			<by>positon</by>
+			<value>[509,539]</value>			
+		</Goin>		
+	</Main>
+    
+	<Exercise des="登录页面">
+		<HomepageExercise des = "用户名">
+			<by>index</by>
+			<value>[0,0,1,0]</value>
+			<parent>id/grid</parent>
+			<timeout>30</timeout>			
+		</HomepageExercise>		
+	</Exercise>
+</root>
