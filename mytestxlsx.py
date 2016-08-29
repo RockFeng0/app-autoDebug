@@ -26,6 +26,7 @@ from pyrunner.common import p_env
 from testcase import test_run_xlsx
 
 import os
+
 xls_file = os.path.join(p_env.DATA_PATH,"tt.xlsx")
 xlsdata = ExcelDpc(xls_file)
 xlsdata.setXlsFeature("Sheet1", unique="A", info_feature=["B","C","D","E","F","G"])
