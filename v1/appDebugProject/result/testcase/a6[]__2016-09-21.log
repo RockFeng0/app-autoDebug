@@ -1,0 +1,12 @@
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-21_17_24_57 	NORMAL    	Executing precommand
+2016-09-21_17_24_57 	NORMAL    	Executing steps
+2016-09-21_17_24_57 	STEP      		Step_1_info->Login.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-21_17_24_57 	ERROR     	'module' object has no attribute 'Login'
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-21_17_26_53 	NORMAL    	Executing precommand
+2016-09-21_17_26_53 	NORMAL    	Executing steps
+2016-09-21_17_26_53 	STEP      		Step_1_info->Login.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-21_17_26_53 	ERROR     	'module' object has no attribute 'Login'
