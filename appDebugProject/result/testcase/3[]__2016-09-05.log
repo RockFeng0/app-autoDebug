@@ -1,0 +1,183 @@
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-05_15_33_33 	NORMAL    	Executing precommand
+2016-09-05_15_33_33 	NORMAL    	Executing steps
+2016-09-05_15_33_33 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-05_15_33_33 	PASS      		Step pass.
+2016-09-05_15_33_33 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-05_15_33_43 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-05_15_33_43 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-05_15_33_43 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_15_33_43 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click() 
+2016-09-05_15_33_43 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_15_33_43 	NORMAL    	Executing postcommand
+2016-09-05_15_33_43 	NORMAL    	Executing verify
+2016-09-05_15_33_43 	NORMAL    		实际测试结果：[]
+2016-09-05_15_33_43 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-05_15_48_23 	NORMAL    	Executing precommand
+2016-09-05_15_48_23 	NORMAL    	Executing steps
+2016-09-05_15_48_23 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-05_15_48_23 	PASS      		Step pass.
+2016-09-05_15_48_23 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-05_15_53_55 	NORMAL    	Executing precommand
+2016-09-05_15_53_55 	NORMAL    	Executing steps
+2016-09-05_15_53_55 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-05_15_53_55 	PASS      		Step pass.
+2016-09-05_15_53_55 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-05_15_54_06 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-05_15_54_06 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-05_15_54_06 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_15_54_06 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click() 
+2016-09-05_15_54_06 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_15_54_06 	NORMAL    	Executing postcommand
+2016-09-05_15_54_06 	NORMAL    	Executing verify
+2016-09-05_15_54_06 	NORMAL    		实际测试结果：[]
+2016-09-05_15_54_06 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-05_16_03_36 	NORMAL    	Executing precommand
+2016-09-05_16_03_36 	NORMAL    	Executing steps
+2016-09-05_16_03_36 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-05_16_03_36 	PASS      		Step pass.
+2016-09-05_16_03_36 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-05_16_03_46 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-05_16_03_46 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-05_16_03_46 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_16_03_46 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click() 
+2016-09-05_16_03_46 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_16_03_46 	NORMAL    	Executing postcommand
+2016-09-05_16_03_46 	NORMAL    	Executing verify
+2016-09-05_16_03_46 	NORMAL    		实际测试结果：[]
+2016-09-05_16_03_46 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-05_16_37_51 	NORMAL    	Executing precommand
+2016-09-05_16_37_51 	NORMAL    	Executing steps
+2016-09-05_16_37_51 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-05_16_37_51 	PASS      		Step pass.
+2016-09-05_16_37_51 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-05_16_38_02 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-05_16_38_02 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-05_16_38_02 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_16_38_02 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click() 
+2016-09-05_16_38_02 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_16_38_02 	NORMAL    	Executing postcommand
+2016-09-05_16_38_02 	NORMAL    	Executing verify
+2016-09-05_16_38_02 	NORMAL    		实际测试结果：[]
+2016-09-05_16_38_02 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-05_16_39_32 	NORMAL    	Executing precommand
+2016-09-05_16_39_32 	NORMAL    	Executing steps
+2016-09-05_16_39_32 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-05_16_39_32 	PASS      		Step pass.
+2016-09-05_16_39_32 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-05_16_39_43 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-05_16_39_43 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-05_16_39_43 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_16_39_43 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click() 
+2016-09-05_16_39_43 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_16_39_43 	NORMAL    	Executing postcommand
+2016-09-05_16_39_43 	NORMAL    	Executing verify
+2016-09-05_16_39_43 	NORMAL    		实际测试结果：[]
+2016-09-05_16_39_43 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-05_16_46_38 	NORMAL    	Executing precommand
+2016-09-05_16_46_38 	NORMAL    	Executing steps
+2016-09-05_16_46_38 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-05_16_46_38 	PASS      		Step pass.
+2016-09-05_16_46_38 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-05_16_46_49 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-05_16_46_49 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-05_16_46_49 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_16_46_49 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click() 
+2016-09-05_16_46_49 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_16_46_49 	NORMAL    	Executing postcommand
+2016-09-05_16_46_49 	NORMAL    	Executing verify
+2016-09-05_16_46_49 	NORMAL    		实际测试结果：[]
+2016-09-05_16_46_49 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-05_16_48_10 	NORMAL    	Executing precommand
+2016-09-05_16_48_10 	NORMAL    	Executing steps
+2016-09-05_16_48_10 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-05_16_48_10 	PASS      		Step pass.
+2016-09-05_16_48_10 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-05_16_48_20 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-05_16_48_20 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-05_16_48_21 	ERROR     	Timeout at 10 seconds.Element(css selector) not found.
+2016-09-05_16_48_21 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click() 
+2016-09-05_16_48_22 	ERROR     	Timeout at 10 seconds.Element(css selector) not found.
+2016-09-05_16_48_22 	NORMAL    	Executing postcommand
+2016-09-05_16_48_22 	NORMAL    	Executing verify
+2016-09-05_16_48_22 	NORMAL    		实际测试结果：[]
+2016-09-05_16_48_22 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-05_16_54_33 	NORMAL    	Executing precommand
+2016-09-05_16_54_33 	NORMAL    	Executing steps
+2016-09-05_16_54_33 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-05_16_54_33 	PASS      		Step pass.
+2016-09-05_16_54_33 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-05_16_54_43 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-05_16_54_43 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-05_16_54_43 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_16_54_43 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click() 
+2016-09-05_16_54_43 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_16_54_43 	NORMAL    	Executing postcommand
+2016-09-05_16_54_43 	NORMAL    	Executing verify
+2016-09-05_16_54_43 	NORMAL    		实际测试结果：[]
+2016-09-05_16_54_43 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-05_16_58_43 	NORMAL    	Executing precommand
+2016-09-05_16_58_43 	NORMAL    	Executing steps
+2016-09-05_16_58_43 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-05_16_58_44 	PASS      		Step pass.
+2016-09-05_16_58_44 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-05_16_58_54 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-05_16_58_54 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-05_16_58_54 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_16_58_54 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click() 
+2016-09-05_16_58_54 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_16_58_54 	NORMAL    	Executing postcommand
+2016-09-05_16_58_54 	NORMAL    	Executing verify
+2016-09-05_16_58_54 	NORMAL    		实际测试结果：[]
+2016-09-05_16_58_54 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-05_17_00_37 	NORMAL    	Executing precommand
+2016-09-05_17_00_37 	NORMAL    	Executing steps
+2016-09-05_17_00_37 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-05_17_00_37 	PASS      		Step pass.
+2016-09-05_17_00_37 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-05_17_00_47 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-05_17_00_47 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-05_17_00_47 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_17_00_47 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click() 
+2016-09-05_17_00_47 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_17_00_47 	NORMAL    	Executing postcommand
+2016-09-05_17_00_47 	NORMAL    	Executing verify
+2016-09-05_17_00_47 	NORMAL    		实际测试结果：[]
+2016-09-05_17_00_47 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-05_17_55_12 	NORMAL    	Executing precommand
+2016-09-05_17_55_12 	NORMAL    	Executing steps
+2016-09-05_17_55_12 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-05_17_55_12 	PASS      		Step pass.
+2016-09-05_17_55_12 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-05_17_55_23 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-05_17_55_23 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-05_17_55_23 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_17_55_23 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click() 
+2016-09-05_17_55_23 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-05_17_55_23 	NORMAL    	Executing postcommand
+2016-09-05_17_55_23 	NORMAL    	Executing verify
+2016-09-05_17_55_23 	NORMAL    		实际测试结果：[]
+2016-09-05_17_55_23 	PASS      		Verify complete.[前置操作]

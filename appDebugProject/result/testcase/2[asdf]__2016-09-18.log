@@ -1,0 +1,90 @@
+
+**************  Bruce Luo(罗科峰)'s sample test [2[asdf]]  ***************
+2016-09-18_09_44_41 	NORMAL    	Executing precommand
+2016-09-18_09_44_41 	NORMAL    	Executing steps
+2016-09-18_09_44_41 	STEP      		Step_1_info->Browser.Init("firefox")
+2016-09-18_09_44_43 	PASS      		Step pass.
+2016-09-18_09_44_43 	STEP      		Step_2_info->Browser.NavigateTo("http://192.168.102.241:8003/manager/")
+2016-09-18_09_44_44 	PASS      		Step pass.
+2016-09-18_09_44_44 	STEP      		Step_3_info->Login.LoginAccountInput.Set("aeoijf")
+2016-09-18_09_44_45 	PASS      		Step pass.
+2016-09-18_09_44_45 	STEP      		Step_4_info->Login.LoginPasswordInput.Set("sdfe")
+2016-09-18_09_44_45 	PASS      		Step pass.
+2016-09-18_09_44_45 	STEP      		Step_5_info->Login.LoginCheckCode.Set("1515")
+2016-09-18_09_44_45 	PASS      		Step pass.
+2016-09-18_09_44_45 	NORMAL    	Executing postcommand
+2016-09-18_09_44_45 	NORMAL    	Executing verify
+2016-09-18_09_44_45 	NORMAL    		实际测试结果：[]
+2016-09-18_09_44_45 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [2[asdf]]  ***************
+2016-09-18_11_59_08 	NORMAL    	Executing precommand
+2016-09-18_11_59_08 	NORMAL    	Executing steps
+2016-09-18_11_59_08 	STEP      		Step_1_info->Browser.Init("firefox")
+2016-09-18_11_59_10 	PASS      		Step pass.
+2016-09-18_11_59_10 	STEP      		Step_2_info->Browser.NavigateTo("http://192.168.102.241:8003/manager/")
+2016-09-18_11_59_10 	PASS      		Step pass.
+2016-09-18_11_59_10 	STEP      		Step_3_info->Login.LoginAccountInput.Set("aeoijf")
+2016-09-18_11_59_11 	PASS      		Step pass.
+2016-09-18_11_59_11 	STEP      		Step_4_info->Login.LoginPasswordInput.Set("sdfe")
+2016-09-18_11_59_11 	PASS      		Step pass.
+2016-09-18_11_59_11 	STEP      		Step_5_info->Login.LoginCheckCode.Set("1515")
+2016-09-18_11_59_11 	PASS      		Step pass.
+2016-09-18_11_59_11 	NORMAL    	Executing postcommand
+2016-09-18_11_59_11 	NORMAL    	Executing verify
+2016-09-18_11_59_11 	NORMAL    		实际测试结果：[]
+2016-09-18_11_59_11 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [2[asdf]]  ***************
+2016-09-18_13_45_00 	NORMAL    	Executing precommand
+2016-09-18_13_45_00 	NORMAL    	Executing steps
+2016-09-18_13_45_00 	STEP      		Step_1_info->Browser.Init("firefox")
+2016-09-18_13_45_02 	PASS      		Step pass.
+2016-09-18_13_45_02 	STEP      		Step_2_info->Browser.NavigateTo("http://192.168.102.241:8003/manager/")
+2016-09-18_13_45_03 	PASS      		Step pass.
+2016-09-18_13_45_03 	STEP      		Step_3_info->Login.LoginAccountInput.Set("aeoijf")
+2016-09-18_13_45_03 	PASS      		Step pass.
+2016-09-18_13_45_03 	STEP      		Step_4_info->Login.LoginPasswordInput.Set("sdfe")
+2016-09-18_13_45_03 	PASS      		Step pass.
+2016-09-18_13_45_03 	STEP      		Step_5_info->Login.LoginCheckCode.Set("1515")
+2016-09-18_13_45_03 	PASS      		Step pass.
+2016-09-18_13_45_03 	NORMAL    	Executing postcommand
+2016-09-18_13_45_03 	NORMAL    	Executing verify
+2016-09-18_13_45_03 	NORMAL    		实际测试结果：[]
+2016-09-18_13_45_03 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [2[asdf]]  ***************
+2016-09-18_13_46_54 	NORMAL    	Executing precommand
+2016-09-18_13_46_54 	NORMAL    	Executing steps
+2016-09-18_13_46_54 	STEP      		Step_1_info->Browser.Init("firefox")
+2016-09-18_13_46_56 	PASS      		Step pass.
+2016-09-18_13_46_56 	STEP      		Step_2_info->Browser.NavigateTo("http://192.168.102.241:8003/manager/")
+2016-09-18_13_46_57 	PASS      		Step pass.
+2016-09-18_13_46_57 	STEP      		Step_3_info->Login.LoginAccountInput.Set("aeoijf")
+2016-09-18_13_46_57 	PASS      		Step pass.
+2016-09-18_13_46_57 	STEP      		Step_4_info->Login.LoginPasswordInput.Set("sdfe")
+2016-09-18_13_46_57 	PASS      		Step pass.
+2016-09-18_13_46_57 	STEP      		Step_5_info->Login.LoginCheckCode.Set("1515")
+2016-09-18_13_46_57 	PASS      		Step pass.
+2016-09-18_13_46_57 	NORMAL    	Executing postcommand
+2016-09-18_13_46_57 	NORMAL    	Executing verify
+2016-09-18_13_46_57 	NORMAL    		实际测试结果：[]
+2016-09-18_13_46_57 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [2[asdf]]  ***************
+2016-09-18_14_23_16 	NORMAL    	Executing precommand
+2016-09-18_14_23_16 	NORMAL    	Executing steps
+2016-09-18_14_23_16 	STEP      		Step_1_info->Browser.Init("firefox")
+2016-09-18_14_23_17 	PASS      		Step pass.
+2016-09-18_14_23_17 	STEP      		Step_2_info->Browser.NavigateTo("http://192.168.102.241:8003/manager/")
+2016-09-18_14_23_18 	PASS      		Step pass.
+2016-09-18_14_23_18 	STEP      		Step_3_info->Login.LoginAccountInput.Set("aeoijf")
+2016-09-18_14_23_18 	PASS      		Step pass.
+2016-09-18_14_23_18 	STEP      		Step_4_info->Login.LoginPasswordInput.Set("sdfe")
+2016-09-18_14_23_18 	PASS      		Step pass.
+2016-09-18_14_23_18 	STEP      		Step_5_info->Login.LoginCheckCode.Set("1515")
+2016-09-18_14_23_19 	PASS      		Step pass.
+2016-09-18_14_23_19 	NORMAL    	Executing postcommand
+2016-09-18_14_23_19 	NORMAL    	Executing verify
+2016-09-18_14_23_19 	NORMAL    		实际测试结果：[]
+2016-09-18_14_23_19 	PASS      		Verify complete.[前置操作]
