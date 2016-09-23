@@ -1,0 +1,375 @@
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_02_16 	NORMAL    	Executing precommand
+2016-09-14_10_02_16 	NORMAL    	Executing steps
+2016-09-14_10_02_16 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_02_16 	ERROR     	Message: Element is not clickable at point (528, 295). Other element would receive the click: <div id="loading"></div>
+
+2016-09-14_10_02_16 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_10_02_26 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-14_10_02_26 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_10_02_26 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-14_10_02_26 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_10_02_26 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_10_02_26 	NORMAL    	Executing postcommand
+2016-09-14_10_02_26 	NORMAL    	Executing verify
+2016-09-14_10_02_26 	NORMAL    		实际测试结果：[]
+2016-09-14_10_02_26 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_03_32 	NORMAL    	Executing precommand
+2016-09-14_10_03_32 	NORMAL    	Executing steps
+2016-09-14_10_03_32 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_03_33 	PASS      		Step pass.
+2016-09-14_10_03_33 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_04_32 	NORMAL    	Executing precommand
+2016-09-14_10_04_32 	NORMAL    	Executing steps
+2016-09-14_10_04_32 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_04_32 	PASS      		Step pass.
+2016-09-14_10_04_32 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_10_04_34 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-14_10_04_34 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_10_04_35 	ERROR     	Timeout at 10 seconds.Element(css selector) not found.
+2016-09-14_10_04_35 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_10_04_35 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_10_04_35 	NORMAL    	Executing postcommand
+2016-09-14_10_04_35 	NORMAL    	Executing verify
+2016-09-14_10_04_35 	NORMAL    		实际测试结果：[]
+2016-09-14_10_04_35 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_04_39 	NORMAL    	Executing precommand
+2016-09-14_10_04_39 	NORMAL    	Executing steps
+2016-09-14_10_04_39 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_04_39 	PASS      		Step pass.
+2016-09-14_10_04_39 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_10_04_49 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-14_10_04_49 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_10_04_50 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-14_10_04_50 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_10_04_50 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_10_04_50 	NORMAL    	Executing postcommand
+2016-09-14_10_04_50 	NORMAL    	Executing verify
+2016-09-14_10_04_50 	NORMAL    		实际测试结果：[]
+2016-09-14_10_04_50 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_05_29 	NORMAL    	Executing precommand
+2016-09-14_10_05_29 	NORMAL    	Executing steps
+2016-09-14_10_05_29 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_05_29 	PASS      		Step pass.
+2016-09-14_10_05_29 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_10_05_39 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-14_10_05_39 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_10_05_39 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-14_10_05_39 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_10_05_39 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_10_05_39 	NORMAL    	Executing postcommand
+2016-09-14_10_05_39 	NORMAL    	Executing verify
+2016-09-14_10_05_39 	NORMAL    		实际测试结果：[]
+2016-09-14_10_05_39 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_06_25 	NORMAL    	Executing precommand
+2016-09-14_10_06_25 	NORMAL    	Executing steps
+2016-09-14_10_06_25 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_06_25 	PASS      		Step pass.
+2016-09-14_10_06_25 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_10_06_35 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-14_10_06_35 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_10_06_35 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-14_10_06_35 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_10_06_36 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_10_06_36 	NORMAL    	Executing postcommand
+2016-09-14_10_06_36 	NORMAL    	Executing verify
+2016-09-14_10_06_36 	NORMAL    		实际测试结果：[]
+2016-09-14_10_06_36 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_09_26 	NORMAL    	Executing precommand
+2016-09-14_10_09_26 	NORMAL    	Executing steps
+2016-09-14_10_09_26 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_09_27 	PASS      		Step pass.
+2016-09-14_10_09_27 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_10_09_37 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-14_10_09_37 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_10_09_37 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-14_10_09_37 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_10_09_37 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_10_09_37 	NORMAL    	Executing postcommand
+2016-09-14_10_09_38 	NORMAL    	Executing verify
+2016-09-14_10_09_38 	NORMAL    		实际测试结果：[]
+2016-09-14_10_09_38 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_11_38 	NORMAL    	Executing precommand
+2016-09-14_10_11_38 	NORMAL    	Executing steps
+2016-09-14_10_11_38 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_11_38 	PASS      		Step pass.
+2016-09-14_10_11_38 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_10_11_39 	PASS      		Step pass.
+2016-09-14_10_11_39 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_10_11_39 	PASS      		Step pass.
+2016-09-14_10_11_39 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_10_11_39 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_10_11_39 	NORMAL    	Executing postcommand
+2016-09-14_10_11_39 	NORMAL    	Executing verify
+2016-09-14_10_11_39 	NORMAL    		实际测试结果：[]
+2016-09-14_10_11_39 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_12_35 	NORMAL    	Executing precommand
+2016-09-14_10_12_35 	NORMAL    	Executing steps
+2016-09-14_10_12_35 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_12_35 	PASS      		Step pass.
+2016-09-14_10_12_35 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_10_12_45 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-14_10_12_45 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_10_12_45 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-14_10_12_45 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_10_12_45 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_10_12_45 	NORMAL    	Executing postcommand
+2016-09-14_10_12_45 	NORMAL    	Executing verify
+2016-09-14_10_12_45 	NORMAL    		实际测试结果：[]
+2016-09-14_10_12_45 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_16_22 	NORMAL    	Executing precommand
+2016-09-14_10_16_22 	NORMAL    	Executing steps
+2016-09-14_10_16_22 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_16_22 	PASS      		Step pass.
+2016-09-14_10_16_22 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_10_16_23 	PASS      		Step pass.
+2016-09-14_10_16_23 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_10_16_23 	PASS      		Step pass.
+2016-09-14_10_16_23 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_10_16_23 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_10_16_23 	NORMAL    	Executing postcommand
+2016-09-14_10_16_23 	NORMAL    	Executing verify
+2016-09-14_10_16_23 	NORMAL    		实际测试结果：[]
+2016-09-14_10_16_23 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_18_53 	NORMAL    	Executing precommand
+2016-09-14_10_18_53 	NORMAL    	Executing steps
+2016-09-14_10_18_53 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_18_53 	PASS      		Step pass.
+2016-09-14_10_18_53 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_10_18_54 	PASS      		Step pass.
+2016-09-14_10_18_54 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_10_18_54 	PASS      		Step pass.
+2016-09-14_10_18_54 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_10_18_54 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_10_18_54 	NORMAL    	Executing postcommand
+2016-09-14_10_18_54 	NORMAL    	Executing verify
+2016-09-14_10_18_54 	NORMAL    		实际测试结果：[]
+2016-09-14_10_18_54 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_26_49 	NORMAL    	Executing precommand
+2016-09-14_10_26_49 	NORMAL    	Executing steps
+2016-09-14_10_26_49 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_26_49 	PASS      		Step pass.
+2016-09-14_10_26_49 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_33_23 	NORMAL    	Executing precommand
+2016-09-14_10_33_23 	NORMAL    	Executing steps
+2016-09-14_10_33_23 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_33_23 	PASS      		Step pass.
+2016-09-14_10_33_23 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_10_33_33 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-14_10_33_33 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_10_33_33 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-14_10_33_33 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_10_33_33 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_10_33_33 	NORMAL    	Executing postcommand
+2016-09-14_10_33_33 	NORMAL    	Executing verify
+2016-09-14_10_33_33 	NORMAL    		实际测试结果：[]
+2016-09-14_10_33_33 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_36_26 	NORMAL    	Executing precommand
+2016-09-14_10_36_26 	NORMAL    	Executing steps
+2016-09-14_10_36_26 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_36_26 	PASS      		Step pass.
+2016-09-14_10_36_26 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_43_25 	NORMAL    	Executing precommand
+2016-09-14_10_43_25 	NORMAL    	Executing steps
+2016-09-14_10_43_25 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_43_25 	ERROR     	Message: Element is not clickable at point (528, 295). Other element would receive the click: <div id="loading"></div>
+
+2016-09-14_10_43_25 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_10_43_35 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-14_10_43_35 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_10_43_35 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-14_10_43_35 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_10_43_35 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_10_43_35 	NORMAL    	Executing postcommand
+2016-09-14_10_43_35 	NORMAL    	Executing verify
+2016-09-14_10_43_35 	NORMAL    		实际测试结果：[]
+2016-09-14_10_43_35 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_47_53 	NORMAL    	Executing precommand
+2016-09-14_10_47_53 	NORMAL    	Executing steps
+2016-09-14_10_47_53 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_47_53 	PASS      		Step pass.
+2016-09-14_10_47_53 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_10_47_53 	PASS      		Step pass.
+2016-09-14_10_47_53 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_10_47_54 	PASS      		Step pass.
+2016-09-14_10_47_54 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_10_47_54 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_10_47_54 	NORMAL    	Executing postcommand
+2016-09-14_10_47_54 	NORMAL    	Executing verify
+2016-09-14_10_47_54 	NORMAL    		实际测试结果：[]
+2016-09-14_10_47_54 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_10_59_55 	NORMAL    	Executing precommand
+2016-09-14_10_59_55 	NORMAL    	Executing steps
+2016-09-14_10_59_55 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_10_59_55 	PASS      		Step pass.
+2016-09-14_10_59_55 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_10_59_56 	PASS      		Step pass.
+2016-09-14_10_59_56 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_10_59_56 	PASS      		Step pass.
+2016-09-14_10_59_56 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_10_59_56 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_10_59_56 	NORMAL    	Executing postcommand
+2016-09-14_10_59_56 	NORMAL    	Executing verify
+2016-09-14_10_59_56 	NORMAL    		实际测试结果：[]
+2016-09-14_10_59_56 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_11_11_59 	NORMAL    	Executing precommand
+2016-09-14_11_11_59 	NORMAL    	Executing steps
+2016-09-14_11_11_59 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_11_11_59 	PASS      		Step pass.
+2016-09-14_11_11_59 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_11_12_09 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-14_11_12_09 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_11_12_09 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-14_11_12_09 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_11_12_09 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_11_12_09 	NORMAL    	Executing postcommand
+2016-09-14_11_12_09 	NORMAL    	Executing verify
+2016-09-14_11_12_09 	NORMAL    		实际测试结果：[]
+2016-09-14_11_12_09 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_11_25_29 	NORMAL    	Executing precommand
+2016-09-14_11_25_29 	NORMAL    	Executing steps
+2016-09-14_11_25_29 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_11_25_29 	PASS      		Step pass.
+2016-09-14_11_25_29 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_11_25_29 	PASS      		Step pass.
+2016-09-14_11_25_29 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_11_25_29 	PASS      		Step pass.
+2016-09-14_11_25_29 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_11_25_29 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_11_25_29 	NORMAL    	Executing postcommand
+2016-09-14_11_25_29 	NORMAL    	Executing verify
+2016-09-14_11_25_29 	NORMAL    		实际测试结果：[]
+2016-09-14_11_25_29 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_11_25_59 	NORMAL    	Executing precommand
+2016-09-14_11_25_59 	NORMAL    	Executing steps
+2016-09-14_11_25_59 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_11_25_59 	PASS      		Step pass.
+2016-09-14_11_25_59 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_11_26_00 	PASS      		Step pass.
+2016-09-14_11_26_00 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_11_26_00 	PASS      		Step pass.
+2016-09-14_11_26_00 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_11_26_00 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_11_26_00 	NORMAL    	Executing postcommand
+2016-09-14_11_26_00 	NORMAL    	Executing verify
+2016-09-14_11_26_00 	NORMAL    		实际测试结果：[]
+2016-09-14_11_26_00 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_11_31_31 	NORMAL    	Executing precommand
+2016-09-14_11_31_31 	NORMAL    	Executing steps
+2016-09-14_11_31_31 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_11_31_31 	PASS      		Step pass.
+2016-09-14_11_31_31 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_11_31_42 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-14_11_31_42 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_11_31_42 	ERROR     	Element [LoginErrorTipBtn]: Element Index Issue! There are [2] Elements! Index=[2]
+2016-09-14_11_31_42 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_11_31_42 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_11_31_42 	NORMAL    	Executing postcommand
+2016-09-14_11_31_42 	NORMAL    	Executing verify
+2016-09-14_11_31_42 	NORMAL    		实际测试结果：[]
+2016-09-14_11_31_42 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_11_40_57 	NORMAL    	Executing precommand
+2016-09-14_11_40_57 	NORMAL    	Executing steps
+2016-09-14_11_40_57 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_11_40_57 	PASS      		Step pass.
+2016-09-14_11_40_57 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_11_40_58 	PASS      		Step pass.
+2016-09-14_11_40_58 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_11_40_58 	PASS      		Step pass.
+2016-09-14_11_40_58 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_11_40_58 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_11_40_58 	NORMAL    	Executing postcommand
+2016-09-14_11_40_58 	NORMAL    	Executing verify
+2016-09-14_11_40_58 	NORMAL    		实际测试结果：[]
+2016-09-14_11_40_58 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_11_41_13 	NORMAL    	Executing precommand
+2016-09-14_11_41_13 	NORMAL    	Executing steps
+2016-09-14_11_41_13 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_11_41_14 	ERROR     	Timeout at 10 seconds.Element(xpath) not found.
+2016-09-14_11_41_14 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_11_41_15 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+2016-09-14_11_41_15 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_11_41_16 	ERROR     	Timeout at 10 seconds.Element(css selector) not found.
+2016-09-14_11_41_16 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_11_41_16 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_11_41_16 	NORMAL    	Executing postcommand
+2016-09-14_11_41_16 	NORMAL    	Executing verify
+2016-09-14_11_41_16 	NORMAL    		实际测试结果：[]
+2016-09-14_11_41_16 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_11_41_39 	NORMAL    	Executing precommand
+2016-09-14_11_41_39 	NORMAL    	Executing steps
+2016-09-14_11_41_39 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_11_41_39 	PASS      		Step pass.
+2016-09-14_11_41_39 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_11_41_39 	PASS      		Step pass.
+2016-09-14_11_41_39 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_11_41_39 	PASS      		Step pass.
+2016-09-14_11_41_39 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_11_41_39 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_11_41_39 	NORMAL    	Executing postcommand
+2016-09-14_11_41_39 	NORMAL    	Executing verify
+2016-09-14_11_41_39 	NORMAL    		实际测试结果：[]
+2016-09-14_11_41_39 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [3[]]  ***************
+2016-09-14_11_42_28 	NORMAL    	Executing precommand
+2016-09-14_11_42_28 	NORMAL    	Executing steps
+2016-09-14_11_42_28 	STEP      		Step_1_info->Login.LoginStartButton.Click()
+2016-09-14_11_42_28 	PASS      		Step pass.
+2016-09-14_11_42_28 	STEP      		Step_2_info->Login.LoginErrorTipText.GetText()
+2016-09-14_11_42_29 	PASS      		Step pass.
+2016-09-14_11_42_29 	STEP      		Step_3_info->Login.LoginErrorTipBtn.GetText()
+2016-09-14_11_42_29 	PASS      		Step pass.
+2016-09-14_11_42_29 	STEP      		Step_4_info->Login.LoginErrorTipBtn.Click1() 
+2016-09-14_11_42_29 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+2016-09-14_11_42_29 	NORMAL    	Executing postcommand
+2016-09-14_11_42_29 	NORMAL    	Executing verify
+2016-09-14_11_42_29 	NORMAL    		实际测试结果：[]
+2016-09-14_11_42_29 	PASS      		Verify complete.[前置操作]

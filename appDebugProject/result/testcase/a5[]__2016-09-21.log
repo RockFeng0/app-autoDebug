@@ -1,0 +1,35 @@
+
+**************  Bruce Luo(罗科峰)'s sample test [a5[]]  ***************
+2016-09-21_16_52_39 	NORMAL    	Executing precommand
+2016-09-21_16_52_39 	NORMAL    	Executing steps
+2016-09-21_16_52_39 	NORMAL    	Executing postcommand
+2016-09-21_16_52_39 	NORMAL    	Executing verify
+2016-09-21_16_52_39 	ERROR     	name 'Login' is not defined,Please check module funtion
+
+**************  Bruce Luo(罗科峰)'s sample test [a5[]]  ***************
+2016-09-21_16_52_49 	NORMAL    	Executing precommand
+2016-09-21_16_52_49 	NORMAL    	Executing steps
+2016-09-21_16_52_49 	NORMAL    	Executing postcommand
+2016-09-21_16_52_49 	NORMAL    	Executing verify
+2016-09-21_16_52_49 	ERROR     	name 'Login' is not defined,Please check module funtion
+
+**************  Bruce Luo(罗科峰)'s sample test [a5[]]  ***************
+2016-09-21_16_55_23 	NORMAL    	Executing precommand
+2016-09-21_16_55_23 	NORMAL    	Executing steps
+2016-09-21_16_55_23 	NORMAL    	Executing postcommand
+2016-09-21_16_55_23 	NORMAL    	Executing verify
+2016-09-21_16_55_23 	ERROR     	name 'Login' is not defined,Please check module funtion
+
+**************  Bruce Luo(罗科峰)'s sample test [a5[]]  ***************
+2016-09-21_17_24_57 	NORMAL    	Executing precommand
+2016-09-21_17_24_57 	NORMAL    	Executing steps
+2016-09-21_17_24_57 	NORMAL    	Executing postcommand
+2016-09-21_17_24_57 	NORMAL    	Executing verify
+2016-09-21_17_24_57 	ERROR     	name 'Login' is not defined,Please check module funtion
+
+**************  Bruce Luo(罗科峰)'s sample test [a5[]]  ***************
+2016-09-21_17_26_52 	NORMAL    	Executing precommand
+2016-09-21_17_26_52 	NORMAL    	Executing steps
+2016-09-21_17_26_52 	NORMAL    	Executing postcommand
+2016-09-21_17_26_52 	NORMAL    	Executing verify
+2016-09-21_17_26_52 	ERROR     	name 'Login' is not defined,Please check module funtion

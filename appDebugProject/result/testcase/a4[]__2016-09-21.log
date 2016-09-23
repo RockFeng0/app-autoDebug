@@ -1,0 +1,84 @@
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-21_16_51_55 	NORMAL    	Executing precommand
+2016-09-21_16_51_55 	NORMAL    	Executing steps
+2016-09-21_16_51_55 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-21_16_51_55 	ERROR     	'module' object has no attribute 'WindowP'
+2016-09-21_16_51_55 	NORMAL    	Executing postcommand
+2016-09-21_16_51_55 	NORMAL    	Executing verify
+2016-09-21_16_51_55 	NORMAL    		实际测试结果：[]
+2016-09-21_16_51_55 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-21_16_52_49 	NORMAL    	Executing precommand
+2016-09-21_16_52_49 	NORMAL    	Executing steps
+2016-09-21_16_52_49 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-21_16_52_49 	ERROR     	'module' object has no attribute 'WindowP'
+2016-09-21_16_52_49 	NORMAL    	Executing postcommand
+2016-09-21_16_52_49 	NORMAL    	Executing verify
+2016-09-21_16_52_49 	NORMAL    		实际测试结果：[]
+2016-09-21_16_52_49 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-21_16_54_36 	NORMAL    	Executing precommand
+2016-09-21_16_54_36 	NORMAL    	Executing steps
+2016-09-21_16_54_36 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-21_16_54_36 	ERROR     	'module' object has no attribute 'WindowP'
+2016-09-21_16_54_36 	NORMAL    	Executing postcommand
+2016-09-21_16_54_36 	NORMAL    	Executing verify
+2016-09-21_16_54_36 	NORMAL    		实际测试结果：[]
+2016-09-21_16_54_36 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-21_16_55_17 	NORMAL    	Executing precommand
+2016-09-21_16_55_17 	NORMAL    	Executing steps
+2016-09-21_16_55_17 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-21_16_55_17 	ERROR     	'module' object has no attribute 'WindowP'
+2016-09-21_16_55_17 	NORMAL    	Executing postcommand
+2016-09-21_16_55_17 	NORMAL    	Executing verify
+2016-09-21_16_55_17 	NORMAL    		实际测试结果：[]
+2016-09-21_16_55_17 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-21_16_55_23 	NORMAL    	Executing precommand
+2016-09-21_16_55_23 	NORMAL    	Executing steps
+2016-09-21_16_55_23 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-21_16_55_23 	ERROR     	'module' object has no attribute 'WindowP'
+2016-09-21_16_55_23 	NORMAL    	Executing postcommand
+2016-09-21_16_55_23 	NORMAL    	Executing verify
+2016-09-21_16_55_23 	NORMAL    		实际测试结果：[]
+2016-09-21_16_55_23 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-21_16_56_41 	NORMAL    	Executing precommand
+2016-09-21_16_56_41 	NORMAL    	Executing steps
+2016-09-21_16_56_41 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-21_16_56_41 	ERROR     	'module' object has no attribute 'WindowP'
+2016-09-21_16_56_41 	NORMAL    	Executing postcommand
+2016-09-21_16_56_41 	NORMAL    	Executing verify
+2016-09-21_16_56_41 	NORMAL    		实际测试结果：[]
+2016-09-21_16_56_41 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-21_17_16_48 	NORMAL    	Executing precommand
+2016-09-21_17_16_48 	NORMAL    	Executing steps
+2016-09-21_17_16_48 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-21_17_16_48 	ERROR     	'module' object has no attribute 'WindowP'
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-21_17_22_42 	NORMAL    	Executing precommand
+2016-09-21_17_22_42 	NORMAL    	Executing steps
+2016-09-21_17_22_42 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-21_17_22_42 	ERROR     	'module' object has no attribute 'WindowP'
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-21_17_24_57 	NORMAL    	Executing precommand
+2016-09-21_17_24_57 	NORMAL    	Executing steps
+2016-09-21_17_24_57 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-21_17_24_57 	ERROR     	'module' object has no attribute 'WindowP'
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-21_17_26_52 	NORMAL    	Executing precommand
+2016-09-21_17_26_52 	NORMAL    	Executing steps
+2016-09-21_17_26_52 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-21_17_26_52 	ERROR     	'module' object has no attribute 'WindowP'

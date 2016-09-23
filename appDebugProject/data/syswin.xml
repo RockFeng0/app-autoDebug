@@ -1,0 +1,20 @@
+﻿<root>
+	<LoginPC des="登录页面">
+		<TextUserName des = "用户名">
+			<ident>{"AutomationId" : "txtUserName"}</ident>			
+			<timeout>10</timeout>			
+		</TextUserName>
+		<PwdUser des = "密码">
+			<ident>{"AutomationId" : "PwdUser"}</ident>
+			<timeout/>
+		</PwdUser>
+		<CkbIsSavePwd des = "记住密码">
+			<ident>{"AutomationId" : "ckbIsSavePwd"}</ident>
+			<timeout/>
+		</CkbIsSavePwd>
+		<BtnLogin des = "登录按钮">
+			<ident>{"AutomationId" : "BtnLogin"}</ident>
+			<timeout/>
+		</BtnLogin>
+	</LoginPC>	
+</root>

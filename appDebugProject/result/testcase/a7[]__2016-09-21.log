@@ -1,0 +1,12 @@
+
+**************  Bruce Luo(罗科峰)'s sample test [a7[]]  ***************
+2016-09-21_17_24_57 	NORMAL    	Executing precommand
+2016-09-21_17_24_57 	NORMAL    	Executing steps
+2016-09-21_17_24_57 	STEP      		Step_1_info->Login.PwdUser.IsPassword()    2.Login.PwdUser.TypeInWin("123456")
+2016-09-21_17_24_57 	ERROR     	invalid syntax (<string>, line 1)
+
+**************  Bruce Luo(罗科峰)'s sample test [a7[]]  ***************
+2016-09-21_17_26_53 	NORMAL    	Executing precommand
+2016-09-21_17_26_53 	NORMAL    	Executing steps
+2016-09-21_17_26_53 	STEP      		Step_1_info->Login.PwdUser.IsPassword()    2.Login.PwdUser.TypeInWin("123456")
+2016-09-21_17_26_53 	ERROR     	invalid syntax (<string>, line 1)

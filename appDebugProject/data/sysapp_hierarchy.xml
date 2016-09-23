@@ -1,0 +1,39 @@
+﻿<root>    
+	<Login des="登录页面">
+		<LoginAccountInput des = "用户名">
+			<by>id</by>
+			<value>id/login_account_input</value>					
+		</LoginAccountInput>
+		<LoginPasswordInput des = "密码">
+			<by>id</by>
+			<value>id/login_password_input</value>
+			<timeout/>
+		</LoginPasswordInput>
+		<LoginErrorTipText des = "错误提示">
+			<by>id</by>
+			<value>id/login_error_tip_text</value>
+			<timeout/>
+		</LoginErrorTipText>
+		<LoginStartButton des = "登录按钮">
+			<by>id</by>
+			<value>id/login_start_button</value>
+			<timeout/>
+		</LoginStartButton>
+	</Login>
+	<Main des="登录页面">
+		<HomepageExercise des = "用户名">
+			<by>link_text</by>
+			<value>练习作业</value>
+			<parent>id/homepage_exercise</parent>
+			<timeout>10</timeout>			
+		</HomepageExercise>		
+	</Main>
+	<Exercise des="登录页面">
+		<HomepageExercise des = "用户名">
+			<by>index</by>
+			<value>[0,0,1,0]</value>
+			<parent>id/grid</parent>
+			<timeout>30</timeout>			
+		</HomepageExercise>		
+	</Exercise>
+</root>
