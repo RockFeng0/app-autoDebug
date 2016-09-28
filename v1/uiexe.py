@@ -33,6 +33,7 @@ from pyrunner.common import p_common,p_env
 Window.widg = ROOT
 Window.Top(sc.TITLE,geometry='95x35+270+80', resizable_x=1,resizable_y=1)
 
+
 menubar = Widget.Menu(ROOT)
 Window.Config(menu = menubar)
 ROOT.option_add("*Menu.tearOff", 0)
@@ -269,41 +270,35 @@ class Process:
 class PyConsole:
     
     def __init__(self, master = ROOT, loop = False):
-        self.ipy = None
-        self.api_path = os.path.abspath(sys.path[0]).decode("cp936")        
-        proj_path = os.path.join(self.api_path, sc.PROJ_NAME)
+        f_path = os.path.abspath(sys.path[0]).decode("cp936")
+        proj_path = os.path.join(f_path, sc.PROJ_NAME)
         
         p_common.init_project_env(sc.PROJ_NAME, proj_path= proj_path)
         self.__proj_config = p_common.get_current_config("PROJECTCONFIG")
-         
+        
+        api_file = "KeyClasses.py"
+        api_file_path = os.path.join(f_path, api_file)       
+        
         self.__master = master
         self.process_ui = Process(master)
         self.__set_menus_command(self.process_ui.menus)        
-        self.__init_rpc(self.process_ui.textarea)       
-                 
+        self.__init_rpc(api_file_path, self.process_ui.textarea)       
+                
         self.__main()
         basic.mainloop(master, loop=loop)        
     
-    def __init_rpc(self, tktext):
+    def __init_rpc(self,api_file_path, tktext):
         
-        # start ironpython rpc server
-        ipy_exe_str = os.popen('ipy.exe -c "import sys;print sys.executable"').read()
-        if ipy_exe_str:
-            self.ipy = ipy_exe_str.strip()
-            import r_server
-            subp = r_server.start_subprocess_server(self.ipy,port = 0)
-            self.ipy_clt = r_server.MyXMLRPCClient(subp)
-            self.ipy_rpc_clt = self.ipy_clt.get_rpc_client()
-            self.ipy_rpc_clt.set_keys_module("UIPc")            
-        
+#         if api_file_path == "debug":
+#             api_file_path = r"D:\auto\python\app-autoDebug\haloudebug\UIWeb.py"
+                    
         # tkconsole             
         tkconsole = TkConsole(tktext)
         
         # interpreter
-        api_file_path = os.path.join(self.api_path,"UIWeb.py")
         self.intp = MyInterp(tkconsole)
         self.intp.start_subprocess(api_file_path)
-        self.intp.extend_namespace(api_file_path)
+        self.intp.extend_namespace(api_file_path)        
         self.intp.runsource("from sd import SdRunner;a = SdRunner('%s',debug = True)" %self.__proj_config.get("config"))
         
         # rpc client

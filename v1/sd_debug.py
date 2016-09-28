@@ -22,8 +22,7 @@ import os,types
 import de,pub
 from pyrunner.executer import RunXlsxDpcData,tracer
 from pyrunner.common import p_env
-
-pub.set_path()
+    
 class SdRunner:
     def __init__(self,section, debug = False):
         self.itemrst = None

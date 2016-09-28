@@ -1,0 +1,30 @@
+
+**************  Bruce Luo(罗科峰)'s sample test [a1[3]]  ***************
+2016-09-28_16_06_16 	NORMAL    	Executing precommand
+2016-09-28_16_06_16 	NORMAL    	Executing steps
+2016-09-28_16_06_16 	NORMAL    	Executing postcommand
+2016-09-28_16_06_16 	NORMAL    	Executing verify
+2016-09-28_16_06_16 	NORMAL    		实际测试结果：[]
+2016-09-28_16_06_16 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [a1[3]]  ***************
+2016-09-28_16_23_22 	NORMAL    	Executing precommand
+2016-09-28_16_23_22 	NORMAL    	Executing steps
+2016-09-28_16_23_22 	NORMAL    	Executing postcommand
+2016-09-28_16_23_22 	NORMAL    	Executing verify
+2016-09-28_16_23_22 	NORMAL    		实际测试结果：[]
+2016-09-28_16_23_22 	PASS      		Verify complete.[前置操作]
+
+**************  Bruce Luo(罗科峰)'s sample test [a1[3]]  ***************
+2016-09-28_17_35_19 	NORMAL    	Executing precommand
+2016-09-28_17_35_19 	NORMAL    	Executing steps
+2016-09-28_17_35_19 	NORMAL    	Executing postcommand
+2016-09-28_17_35_19 	NORMAL    	Executing verify
+
+**************  Bruce Luo(罗科峰)'s sample test [a1[3]]  ***************
+2016-09-28_17_36_35 	NORMAL    	Executing precommand
+2016-09-28_17_36_35 	NORMAL    	Executing steps
+2016-09-28_17_36_35 	NORMAL    	Executing postcommand
+2016-09-28_17_36_35 	NORMAL    	Executing verify
+2016-09-28_17_36_35 	NORMAL    		实际测试结果：[]
+2016-09-28_17_36_35 	PASS      		Verify complete.[前置操作]

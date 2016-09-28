@@ -36,22 +36,18 @@ class _MyXMLRPCServer:
     
     def __register(self):        
         self.server.register_function(self.__define_run_pc, 'run_pc')
-        self.server.register_function(self.__define_keys, 'set_keys_module')
         self.server.register_function(self.__get_var, 'get_var')    
        
     def __get_var(self,var):
         pass
     
-    def __define_keys(self, module_name):
-        self.module = __import__(module_name)
-        return True
+    def __define_run_pc(self, test_cases, module_name = "UIPc"):
+        module = __import__(module_name)
         
-    def __define_run_pc(self, test_cases):
-                
         executer    = RunXlsxDpcData(test_cases, debug = tracer.debug)
         status = executer.start()
         for fs,caseid in status:                  
-            test_result = executer(self.module).queue(fs)
+            test_result = executer(module).queue(fs)
             
             if not pub.judgement(test_result[0], test_result[1], caseid):            
                 break
@@ -99,7 +95,7 @@ class MyXMLRPCClient:
         self.subp_start_expect = "<RemoteTestStart:(.*)>"
         self.subp_end_expect = "<RemoteTestEnd.>"
         
-        port = self.poll_response(self.subp_start_expect)   
+        port = self.poll_response(self.subp_start_expect)        
         self.client = xmlrpclib.ServerProxy('http://localhost:%s' %port)
             
     def get_rpc_client(self):
@@ -143,7 +139,6 @@ def sample_usage():
     
     # send rpc request
     rpcclt = clt.get_rpc_client()
-    rpcclt.set_keys_module("UIPc")
     t = {"a1":{'head': 5, 'casetype': u'WEB', 'description': 3, 'tester': u'sd', 'precommand': {}, 'verify': u'Result.Normal("\u524d\u7f6e\u64cd\u4f5c")', 'postcommand': {}, 'stepdescription': '', 'steps': {}, 'data': 6}}
     rpcclt.run_pc(t)
     
