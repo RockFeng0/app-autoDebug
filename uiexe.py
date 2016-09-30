@@ -20,7 +20,7 @@ UI and Web Http automation frame for python.
 
 import sys,os,time,webbrowser
 
-import sc
+import sc,r_server
 from pyrunner.tkui.ui import Window,Widget,ROOT,Tkconstants
 from pyrunner.tkui import basic
 from pyrunner.tkui.basic import MSG,FileDilog
@@ -269,7 +269,6 @@ class Process:
 class PyConsole:
     
     def __init__(self, master = ROOT, loop = False):
-        self.ipy = None
         self.api_path = os.path.abspath(sys.path[0]).decode("cp936")        
         proj_path = os.path.join(self.api_path, sc.PROJ_NAME)
         
@@ -286,25 +285,15 @@ class PyConsole:
     
     def __init_rpc(self, tktext):
         
-        # start ironpython rpc server
-        ipy_exe_str = os.popen('ipy.exe -c "import sys;print sys.executable"').read()
-        if ipy_exe_str:
-            self.ipy = ipy_exe_str.strip()
-            import r_server
-            subp = r_server.start_subprocess_server(self.ipy,port = 0)
-            self.ipy_clt = r_server.MyXMLRPCClient(subp)
-            self.ipy_rpc_clt = self.ipy_clt.get_rpc_client()
-            self.ipy_rpc_clt.set_keys_module("UIPc")            
-        
         # tkconsole             
         tkconsole = TkConsole(tktext)
         
         # interpreter
-        api_file_path = os.path.join(self.api_path,"UIWeb.py")
+        api_file_path = os.path.join(self.api_path,"%s.py" %sc.KEYS_MODULE_NAME.get("web"))
         self.intp = MyInterp(tkconsole)
         self.intp.start_subprocess(api_file_path)
         self.intp.extend_namespace(api_file_path)
-        self.intp.runsource("from sd import SdRunner;a = SdRunner('%s',debug = True)" %self.__proj_config.get("config"))
+        self.intp.runsource("from sd import SdRunner;a = SdRunner('%s',debug = True)" %(self.__proj_config.get("config")))
         
         # rpc client
         self.clt = MyRpcClient(self.intp.rpcclt)
@@ -312,6 +301,22 @@ class PyConsole:
         # text delegator
         ted = TextEditDelegator(tktext)        
         ted.effect_on_text('ERROR', {'foreground': '#000000','background': '#ff7777'})
+        
+        # start ironpython rpc server
+#         self.intp.runsource("import r_server;ipy_subp = r_server.start_subprocess_server(port = 0)")
+#         self.intp.runsource("ipy_clt = r_server.MyXMLRPCClient(ipy_subp);ipy_rpcclt = ipy_clt.get_rpc_client();ipy_rpcclt.set_keys_module('%s')" %(sc.KEYS_MODULE_NAME.get("pc")))
+        
+        self.intp.runsource("""
+import r_server
+ipy_subp = r_server.start_subprocess_server(port = 0)
+ipy_subp_tag = False
+if ipy_subp:
+    ipy_clt = r_server.MyXMLRPCClient(ipy_subp)
+    ipy_rpcclt = ipy_clt.get_rpc_client()
+    ipy_rpcclt.set_keys_module('%s')
+    ipy_subp_tag = True
+""" %(sc.KEYS_MODULE_NAME.get("pc")), symbol = "exec")
+                           
         
     def __set_menus_command(self, menus_map):
         node = menus_map.get(u"文件")
@@ -443,8 +448,7 @@ class PyConsole:
             self.process_ui.processbar.stop()
                         
     def __run_tree_items(self, treeitems):
-        run_alias = "key"; # {"web":"UIWeb","pc":"UIPc","pad":"UIPad","key":"KeyClasses"}
-        
+                
         f_get = lambda:self.clt.remotecall("exec", "poll_var", ('a',"itemrst"), {})
         f_set = lambda:self.clt.remotecall("exec", "runcode", ('a.itemrst=None',), {})
         tested = False
@@ -457,32 +461,56 @@ class PyConsole:
             self.process_ui.tree.item(item, tags = "tag_yellow")
             self.process_ui.tree.set(item, "col2", "Runing")                
             item_caseid = self.__item_map_case.get(item)
-            self.intp.runsource('a.start_run("%s", "%s")' %(run_alias,item_caseid))            
-            while True:
-                rst = f_get()                                           
-                if not rst:
-                    tested = False
-                    self.__update_tree(0.05)
-                    continue
-                
-                caseid,result = rst           
-                if caseid == item_caseid:
-                    tested = False                              
-                elif caseid == None and tested ==False:
-                    tested = True
-                    if result:
-                        val = "Pass"
-                        self.process_ui.tree.item(item, tags = "tag_black")                        
-                    else:
-                        val = "Fail"
-                        self.process_ui.tree.item(item, tags = "tag_red")                        
-                    self.process_ui.tree.set(item, "col2", val)
-                    f_set()             
-                    break
+            
+            case_type = self.testSet.get(item_caseid).get("casetype").lower()
+            if case_type == "pc":
+                result = False
+                ipy_subp_tag = self.clt.remotequeue("exec", "poll_var", ("ipy_subp_tag",), {})
+                if ipy_subp_tag:        
+                    case = self.testSet.get(item_caseid)
+                    
+                    self.intp.runsource("ipy_result = ipy_rpcclt.run_pc(%r);ipy_clt.poll_response(ipy_clt.subp_end_expect)" %{item_caseid:case})
+                    while True:
+                        result = self.clt.remotecall("exec", "poll_var", ('ipy_result',), {})
+                        if isinstance(result, bool):
+                            self.clt.remotecall("exec", "runcode", ('ipy_result = None',), {})
+                            break
+                        self.__update_tree(0.1)
                 else:
-                    pass
-                self.__update_tree(0.1)                
+                    self.intp.runsource("Warning: ipy.exe rpc server not started.")
+                self.__change_item_color_and_value(item, result)
                 
+            elif case_type == "web":
+                self.intp.runsource('a.start_run("%s","%s")' %(sc.KEYS_MODULE_NAME.get("web"), item_caseid))        
+            
+                while True:
+                    rst = f_get()                                           
+                    if not rst:
+                        tested = False
+                        self.__update_tree(0.05)
+                        continue
+                    
+                    caseid,result = rst           
+                    if caseid == item_caseid:
+                        tested = False                              
+                    elif caseid == None and tested ==False:
+                        tested = True
+                        self.__change_item_color_and_value(item, result)
+                        f_set()             
+                        break
+                    else:
+                        pass
+                    self.__update_tree(0.1)
+    
+    def __change_item_color_and_value(self, item, result):
+        if result:
+            val = "Pass"
+            self.process_ui.tree.item(item, tags = "tag_black")                        
+        else:
+            val = "Fail"
+            self.process_ui.tree.item(item, tags = "tag_red")                        
+        self.process_ui.tree.set(item, "col2", val)
+    
     def __open_case_detail_ui(self, event):
         self.pop_ui = Widget.NewTop()
         Window.widg = self.pop_ui      
@@ -532,7 +560,4 @@ if __name__ == "__main__":
 
 ### preference main
     PyConsole(ROOT, loop = True)
-
-# self.intp.runsource("from pyrunner.common import p_common;p_common.exec_sys_cmd(['ipy.exe','D:/auto/python/app-autoApp/demoProject/testrun.py'])")
-
     

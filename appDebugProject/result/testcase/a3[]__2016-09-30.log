@@ -1,0 +1,18 @@
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-30_11_00_26 	NORMAL    	Executing precommand
+2016-09-30_11_00_26 	NORMAL    	Executing steps
+2016-09-30_11_00_26 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-30_11_00_26 	ERROR     	Timeout at 10 seconds.Element(xpath) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-30_11_50_18 	NORMAL    	Executing precommand
+2016-09-30_11_50_18 	NORMAL    	Executing steps
+2016-09-30_11_50_18 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-30_11_50_18 	PASS      		Step pass.
+2016-09-30_11_50_18 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-30_11_50_18 	PASS      		Step pass.
+2016-09-30_11_50_18 	STEP      		Step_3_info->LoginWeb.LoginErrorTipBtn.GetText()
+2016-09-30_11_50_18 	PASS      		Step pass.
+2016-09-30_11_50_18 	STEP      		Step_4_info->LoginWeb.LoginErrorTipBtn.Click1() 
+2016-09-30_11_50_18 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'

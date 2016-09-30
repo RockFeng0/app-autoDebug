@@ -1,0 +1,120 @@
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-30_09_43_36 	NORMAL    	Executing precommand
+2016-09-30_09_43_36 	NORMAL    	Executing steps
+2016-09-30_09_43_36 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-30_09_43_50 	PASS      		Step pass.
+2016-09-30_09_43_50 	NORMAL    	Executing postcommand
+2016-09-30_09_43_50 	NORMAL    	Executing verify
+2016-09-30_09_43_50 	NORMAL    		实际测试结果：[]
+2016-09-30_09_43_50 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-30_09_45_29 	NORMAL    	Executing precommand
+2016-09-30_09_45_29 	NORMAL    	Executing steps
+2016-09-30_09_45_29 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-30_09_45_29 	PASS      		Step pass.
+2016-09-30_09_45_29 	NORMAL    	Executing postcommand
+2016-09-30_09_45_29 	NORMAL    	Executing verify
+2016-09-30_09_45_29 	NORMAL    		实际测试结果：[]
+2016-09-30_09_45_29 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-30_10_50_18 	NORMAL    	Executing precommand
+2016-09-30_10_50_18 	NORMAL    	Executing steps
+2016-09-30_10_50_18 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-30_10_50_57 	NORMAL    	Executing precommand
+2016-09-30_10_50_57 	NORMAL    	Executing steps
+2016-09-30_10_50_57 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-30_10_50_58 	PASS      		Step pass.
+2016-09-30_10_50_58 	NORMAL    	Executing postcommand
+2016-09-30_10_50_58 	NORMAL    	Executing verify
+2016-09-30_10_50_58 	NORMAL    		实际测试结果：[]
+2016-09-30_10_50_58 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-30_11_01_26 	NORMAL    	Executing precommand
+2016-09-30_11_01_26 	NORMAL    	Executing steps
+2016-09-30_11_01_26 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-30_11_02_20 	NORMAL    	Executing precommand
+2016-09-30_11_02_20 	NORMAL    	Executing steps
+2016-09-30_11_02_20 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-30_11_07_41 	NORMAL    	Executing precommand
+2016-09-30_11_07_41 	NORMAL    	Executing steps
+2016-09-30_11_07_41 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-30_11_07_42 	PASS      		Step pass.
+2016-09-30_11_07_42 	NORMAL    	Executing postcommand
+2016-09-30_11_07_42 	NORMAL    	Executing verify
+2016-09-30_11_07_42 	NORMAL    		实际测试结果：[]
+2016-09-30_11_07_42 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-30_11_09_24 	NORMAL    	Executing precommand
+2016-09-30_11_09_24 	NORMAL    	Executing steps
+2016-09-30_11_09_24 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-30_11_09_37 	PASS      		Step pass.
+2016-09-30_11_09_37 	NORMAL    	Executing postcommand
+2016-09-30_11_09_37 	NORMAL    	Executing verify
+2016-09-30_11_09_37 	NORMAL    		实际测试结果：[]
+2016-09-30_11_09_37 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-30_11_36_05 	NORMAL    	Executing precommand
+2016-09-30_11_36_05 	NORMAL    	Executing steps
+2016-09-30_11_36_05 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-30_11_36_08 	PASS      		Step pass.
+2016-09-30_11_36_08 	NORMAL    	Executing postcommand
+2016-09-30_11_36_08 	NORMAL    	Executing verify
+2016-09-30_11_36_08 	NORMAL    		实际测试结果：[]
+2016-09-30_11_36_08 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-30_11_36_50 	NORMAL    	Executing precommand
+2016-09-30_11_36_50 	NORMAL    	Executing steps
+2016-09-30_11_36_50 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-30_11_36_57 	PASS      		Step pass.
+2016-09-30_11_36_57 	NORMAL    	Executing postcommand
+2016-09-30_11_36_57 	NORMAL    	Executing verify
+2016-09-30_11_36_57 	NORMAL    		实际测试结果：[]
+2016-09-30_11_36_57 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-30_11_50_22 	NORMAL    	Executing precommand
+2016-09-30_11_50_22 	NORMAL    	Executing steps
+2016-09-30_11_50_22 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-30_11_50_32 	PASS      		Step pass.
+2016-09-30_11_50_32 	NORMAL    	Executing postcommand
+2016-09-30_11_50_32 	NORMAL    	Executing verify
+2016-09-30_11_50_32 	NORMAL    		实际测试结果：[]
+2016-09-30_11_50_32 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-30_11_54_26 	NORMAL    	Executing precommand
+2016-09-30_11_54_26 	NORMAL    	Executing steps
+2016-09-30_11_54_26 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-30_11_54_28 	PASS      		Step pass.
+2016-09-30_11_54_28 	NORMAL    	Executing postcommand
+2016-09-30_11_54_28 	NORMAL    	Executing verify
+2016-09-30_11_54_28 	NORMAL    		实际测试结果：[]
+2016-09-30_11_54_28 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-30_11_57_54 	NORMAL    	Executing precommand
+2016-09-30_11_57_54 	NORMAL    	Executing steps
+2016-09-30_11_57_54 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-30_11_57_56 	PASS      		Step pass.
+2016-09-30_11_57_56 	NORMAL    	Executing postcommand
+2016-09-30_11_57_56 	NORMAL    	Executing verify
+2016-09-30_11_57_56 	NORMAL    		实际测试结果：[]
+2016-09-30_11_57_56 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a6[]]  ***************
+2016-09-30_14_42_27 	NORMAL    	Executing precommand
+2016-09-30_14_42_27 	NORMAL    	Executing steps
+2016-09-30_14_42_27 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")

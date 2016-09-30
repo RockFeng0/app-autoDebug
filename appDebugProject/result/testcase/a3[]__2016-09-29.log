@@ -1,0 +1,356 @@
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_11_22_57 	NORMAL    	Executing precommand
+2016-09-29_11_22_57 	NORMAL    	Executing steps
+2016-09-29_11_22_57 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_11_22_57 	PASS      		Step pass.
+2016-09-29_11_22_57 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_11_23_07 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_11_24_48 	NORMAL    	Executing precommand
+2016-09-29_11_24_48 	NORMAL    	Executing steps
+2016-09-29_11_24_48 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_11_24_48 	PASS      		Step pass.
+2016-09-29_11_24_48 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_11_24_59 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_11_25_54 	NORMAL    	Executing precommand
+2016-09-29_11_25_54 	NORMAL    	Executing steps
+2016-09-29_11_25_54 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_11_25_54 	PASS      		Step pass.
+2016-09-29_11_25_54 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_11_26_04 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_11_26_38 	NORMAL    	Executing precommand
+2016-09-29_11_26_38 	NORMAL    	Executing steps
+2016-09-29_11_26_38 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_11_26_38 	PASS      		Step pass.
+2016-09-29_11_26_38 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_11_26_49 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_11_28_32 	NORMAL    	Executing precommand
+2016-09-29_11_28_32 	NORMAL    	Executing steps
+2016-09-29_11_28_32 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_11_28_32 	PASS      		Step pass.
+2016-09-29_11_28_32 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_11_28_33 	PASS      		Step pass.
+2016-09-29_11_28_33 	STEP      		Step_3_info->LoginWeb.LoginErrorTipBtn.GetText()
+2016-09-29_11_28_33 	PASS      		Step pass.
+2016-09-29_11_28_33 	STEP      		Step_4_info->LoginWeb.LoginErrorTipBtn.Click1() 
+2016-09-29_11_28_33 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_11_30_49 	NORMAL    	Executing precommand
+2016-09-29_11_30_49 	NORMAL    	Executing steps
+2016-09-29_11_30_49 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_11_30_50 	PASS      		Step pass.
+2016-09-29_11_30_50 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_11_31_00 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_11_33_16 	NORMAL    	Executing precommand
+2016-09-29_11_33_16 	NORMAL    	Executing steps
+2016-09-29_11_33_16 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_11_33_16 	PASS      		Step pass.
+2016-09-29_11_33_16 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_11_33_17 	PASS      		Step pass.
+2016-09-29_11_33_17 	STEP      		Step_3_info->LoginWeb.LoginErrorTipBtn.GetText()
+2016-09-29_11_33_17 	PASS      		Step pass.
+2016-09-29_11_33_17 	STEP      		Step_4_info->LoginWeb.LoginErrorTipBtn.Click1() 
+2016-09-29_11_33_17 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_11_35_32 	NORMAL    	Executing precommand
+2016-09-29_11_35_32 	NORMAL    	Executing steps
+2016-09-29_11_35_32 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_11_35_32 	PASS      		Step pass.
+2016-09-29_11_35_32 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_11_35_42 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_11_37_44 	NORMAL    	Executing precommand
+2016-09-29_11_37_44 	NORMAL    	Executing steps
+2016-09-29_11_37_44 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_11_37_44 	PASS      		Step pass.
+2016-09-29_11_37_44 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_11_37_44 	PASS      		Step pass.
+2016-09-29_11_37_44 	STEP      		Step_3_info->LoginWeb.LoginErrorTipBtn.GetText()
+2016-09-29_11_37_44 	PASS      		Step pass.
+2016-09-29_11_37_44 	STEP      		Step_4_info->LoginWeb.LoginErrorTipBtn.Click1() 
+2016-09-29_11_37_44 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_11_38_28 	NORMAL    	Executing precommand
+2016-09-29_11_38_28 	NORMAL    	Executing steps
+2016-09-29_11_38_28 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_11_38_28 	PASS      		Step pass.
+2016-09-29_11_38_28 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_11_38_39 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_11_42_56 	NORMAL    	Executing precommand
+2016-09-29_11_42_56 	NORMAL    	Executing steps
+2016-09-29_11_42_56 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_11_42_56 	PASS      		Step pass.
+2016-09-29_11_42_56 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_11_42_57 	PASS      		Step pass.
+2016-09-29_11_42_57 	STEP      		Step_3_info->LoginWeb.LoginErrorTipBtn.GetText()
+2016-09-29_11_42_57 	PASS      		Step pass.
+2016-09-29_11_42_57 	STEP      		Step_4_info->LoginWeb.LoginErrorTipBtn.Click1() 
+2016-09-29_11_42_57 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_11_43_39 	NORMAL    	Executing precommand
+2016-09-29_11_43_39 	NORMAL    	Executing steps
+2016-09-29_11_43_39 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_11_43_39 	PASS      		Step pass.
+2016-09-29_11_43_39 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_11_43_40 	PASS      		Step pass.
+2016-09-29_11_43_40 	STEP      		Step_3_info->LoginWeb.LoginErrorTipBtn.GetText()
+2016-09-29_11_43_40 	PASS      		Step pass.
+2016-09-29_11_43_40 	STEP      		Step_4_info->LoginWeb.LoginErrorTipBtn.Click1() 
+2016-09-29_11_43_40 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_13_45_24 	NORMAL    	Executing precommand
+2016-09-29_13_45_24 	NORMAL    	Executing steps
+2016-09-29_13_45_24 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_13_45_24 	PASS      		Step pass.
+2016-09-29_13_45_24 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_13_45_34 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_13_56_14 	NORMAL    	Executing precommand
+2016-09-29_13_56_14 	NORMAL    	Executing steps
+2016-09-29_13_56_14 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_13_56_14 	PASS      		Step pass.
+2016-09-29_13_56_14 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_13_56_24 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_13_57_35 	NORMAL    	Executing precommand
+2016-09-29_13_57_35 	NORMAL    	Executing steps
+2016-09-29_13_57_35 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_13_57_35 	PASS      		Step pass.
+2016-09-29_13_57_35 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_13_57_45 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_13_59_06 	NORMAL    	Executing precommand
+2016-09-29_13_59_06 	NORMAL    	Executing steps
+2016-09-29_13_59_06 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_13_59_06 	PASS      		Step pass.
+2016-09-29_13_59_06 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_13_59_16 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_14_00_14 	NORMAL    	Executing precommand
+2016-09-29_14_00_14 	NORMAL    	Executing steps
+2016-09-29_14_00_14 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_14_00_14 	PASS      		Step pass.
+2016-09-29_14_00_14 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_14_00_14 	PASS      		Step pass.
+2016-09-29_14_00_14 	STEP      		Step_3_info->LoginWeb.LoginErrorTipBtn.GetText()
+2016-09-29_14_00_14 	PASS      		Step pass.
+2016-09-29_14_00_14 	STEP      		Step_4_info->LoginWeb.LoginErrorTipBtn.Click1() 
+2016-09-29_14_00_14 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_14_02_03 	NORMAL    	Executing precommand
+2016-09-29_14_02_03 	NORMAL    	Executing steps
+2016-09-29_14_02_03 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_14_02_03 	PASS      		Step pass.
+2016-09-29_14_02_03 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_14_02_03 	PASS      		Step pass.
+2016-09-29_14_02_03 	STEP      		Step_3_info->LoginWeb.LoginErrorTipBtn.GetText()
+2016-09-29_14_02_03 	PASS      		Step pass.
+2016-09-29_14_02_03 	STEP      		Step_4_info->LoginWeb.LoginErrorTipBtn.Click1() 
+2016-09-29_14_02_03 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_14_07_41 	NORMAL    	Executing precommand
+2016-09-29_14_07_41 	NORMAL    	Executing steps
+2016-09-29_14_07_41 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_14_07_41 	PASS      		Step pass.
+2016-09-29_14_07_41 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_14_07_51 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_14_33_24 	NORMAL    	Executing precommand
+2016-09-29_14_33_24 	NORMAL    	Executing steps
+2016-09-29_14_33_24 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_14_33_24 	PASS      		Step pass.
+2016-09-29_14_33_24 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_14_33_34 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_14_34_28 	NORMAL    	Executing precommand
+2016-09-29_14_34_28 	NORMAL    	Executing steps
+2016-09-29_14_34_28 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_14_34_28 	PASS      		Step pass.
+2016-09-29_14_34_28 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_14_45_45 	NORMAL    	Executing precommand
+2016-09-29_14_45_45 	NORMAL    	Executing steps
+2016-09-29_14_45_45 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_14_45_45 	PASS      		Step pass.
+2016-09-29_14_45_45 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_14_45_55 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_14_48_01 	NORMAL    	Executing precommand
+2016-09-29_14_48_01 	NORMAL    	Executing steps
+2016-09-29_14_48_01 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_14_48_01 	PASS      		Step pass.
+2016-09-29_14_48_01 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_14_48_11 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_14_50_27 	NORMAL    	Executing precommand
+2016-09-29_14_50_27 	NORMAL    	Executing steps
+2016-09-29_14_50_27 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_14_50_27 	PASS      		Step pass.
+2016-09-29_14_50_27 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_14_50_28 	PASS      		Step pass.
+2016-09-29_14_50_28 	STEP      		Step_3_info->LoginWeb.LoginErrorTipBtn.GetText()
+2016-09-29_14_50_28 	PASS      		Step pass.
+2016-09-29_14_50_28 	STEP      		Step_4_info->LoginWeb.LoginErrorTipBtn.Click1() 
+2016-09-29_14_50_28 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_14_54_15 	NORMAL    	Executing precommand
+2016-09-29_14_54_15 	NORMAL    	Executing steps
+2016-09-29_14_54_15 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_14_54_15 	PASS      		Step pass.
+2016-09-29_14_54_15 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_14_54_25 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_15_06_08 	NORMAL    	Executing precommand
+2016-09-29_15_06_08 	NORMAL    	Executing steps
+2016-09-29_15_06_08 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-29_15_06_11 	PASS      		Step pass.
+2016-09-29_15_06_11 	NORMAL    	Executing postcommand
+2016-09-29_15_06_11 	NORMAL    	Executing verify
+2016-09-29_15_06_11 	NORMAL    		实际测试结果：[]
+2016-09-29_15_06_11 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_15_06_40 	NORMAL    	Executing precommand
+2016-09-29_15_06_40 	NORMAL    	Executing steps
+2016-09-29_15_06_40 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_15_06_40 	PASS      		Step pass.
+2016-09-29_15_06_40 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_15_06_40 	PASS      		Step pass.
+2016-09-29_15_06_40 	STEP      		Step_3_info->LoginWeb.LoginErrorTipBtn.GetText()
+2016-09-29_15_06_40 	PASS      		Step pass.
+2016-09-29_15_06_40 	STEP      		Step_4_info->LoginWeb.LoginErrorTipBtn.Click1() 
+2016-09-29_15_06_40 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_15_09_17 	NORMAL    	Executing precommand
+2016-09-29_15_09_17 	NORMAL    	Executing steps
+2016-09-29_15_09_17 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_15_09_17 	PASS      		Step pass.
+2016-09-29_15_09_17 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_15_09_17 	PASS      		Step pass.
+2016-09-29_15_09_17 	STEP      		Step_3_info->LoginWeb.LoginErrorTipBtn.GetText()
+2016-09-29_15_09_17 	PASS      		Step pass.
+2016-09-29_15_09_17 	STEP      		Step_4_info->LoginWeb.LoginErrorTipBtn.Click1() 
+2016-09-29_15_09_17 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_15_10_52 	NORMAL    	Executing precommand
+2016-09-29_15_10_52 	NORMAL    	Executing steps
+2016-09-29_15_10_52 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_15_10_52 	PASS      		Step pass.
+2016-09-29_15_10_52 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_15_10_52 	PASS      		Step pass.
+2016-09-29_15_10_52 	STEP      		Step_3_info->LoginWeb.LoginErrorTipBtn.GetText()
+2016-09-29_15_10_52 	PASS      		Step pass.
+2016-09-29_15_10_52 	STEP      		Step_4_info->LoginWeb.LoginErrorTipBtn.Click1() 
+2016-09-29_15_10_52 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_15_12_20 	NORMAL    	Executing precommand
+2016-09-29_15_12_20 	NORMAL    	Executing steps
+2016-09-29_15_12_20 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_15_12_20 	PASS      		Step pass.
+2016-09-29_15_12_20 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_15_12_20 	PASS      		Step pass.
+2016-09-29_15_12_20 	STEP      		Step_3_info->LoginWeb.LoginErrorTipBtn.GetText()
+2016-09-29_15_12_20 	PASS      		Step pass.
+2016-09-29_15_12_20 	STEP      		Step_4_info->LoginWeb.LoginErrorTipBtn.Click1() 
+2016-09-29_15_12_20 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_15_14_10 	NORMAL    	Executing precommand
+2016-09-29_15_14_10 	NORMAL    	Executing steps
+2016-09-29_15_14_10 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_15_14_10 	PASS      		Step pass.
+2016-09-29_15_14_10 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_15_14_20 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_15_20_15 	NORMAL    	Executing precommand
+2016-09-29_15_20_15 	NORMAL    	Executing steps
+2016-09-29_15_20_15 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_15_21_23 	NORMAL    	Executing precommand
+2016-09-29_15_21_23 	NORMAL    	Executing steps
+2016-09-29_15_21_23 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_15_21_23 	PASS      		Step pass.
+2016-09-29_15_21_23 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_15_21_33 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_15_39_01 	NORMAL    	Executing precommand
+2016-09-29_15_39_01 	NORMAL    	Executing steps
+2016-09-29_15_39_01 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_15_39_01 	PASS      		Step pass.
+2016-09-29_15_39_01 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_15_39_11 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_15_47_54 	NORMAL    	Executing precommand
+2016-09-29_15_47_54 	NORMAL    	Executing steps
+2016-09-29_15_47_54 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_15_47_54 	PASS      		Step pass.
+2016-09-29_15_47_54 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_15_47_54 	PASS      		Step pass.
+2016-09-29_15_47_54 	STEP      		Step_3_info->LoginWeb.LoginErrorTipBtn.GetText()
+2016-09-29_15_47_54 	PASS      		Step pass.
+2016-09-29_15_47_54 	STEP      		Step_4_info->LoginWeb.LoginErrorTipBtn.Click1() 
+2016-09-29_15_47_54 	ERROR     	class LoginErrorTipBtn has no attribute 'Click1'
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_15_50_37 	NORMAL    	Executing precommand
+2016-09-29_15_50_37 	NORMAL    	Executing steps
+2016-09-29_15_50_37 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_15_50_37 	PASS      		Step pass.
+2016-09-29_15_50_37 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_15_50_47 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_15_53_46 	NORMAL    	Executing precommand
+2016-09-29_15_53_46 	NORMAL    	Executing steps
+2016-09-29_15_53_46 	STEP      		Step_1_info->LoginWeb.LoginStartButton.Click()
+2016-09-29_15_53_46 	PASS      		Step pass.
+2016-09-29_15_53_46 	STEP      		Step_2_info->LoginWeb.LoginErrorTipText.GetText()
+2016-09-29_15_53_57 	ERROR     	Timeout at 10 seconds.Element(id) not found.
+
+**************  Bruce Luo(罗科峰)'s sample test [a3[]]  ***************
+2016-09-29_16_07_58 	NORMAL    	Executing precommand
+2016-09-29_16_07_58 	NORMAL    	Executing steps
+2016-09-29_16_07_58 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-29_16_08_06 	PASS      		Step pass.
+2016-09-29_16_08_06 	NORMAL    	Executing postcommand
+2016-09-29_16_08_06 	NORMAL    	Executing verify
+2016-09-29_16_08_06 	NORMAL    		实际测试结果：[]
+2016-09-29_16_08_06 	PASS      		Verify complete.[Start example test.]

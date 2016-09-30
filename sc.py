@@ -29,3 +29,4 @@ MENUS = [
          {u"帮助": [u"关于"]},  
          ]
 CASE = {"id":None,"value":{}}
+KEYS_MODULE_NAME = {"web":"UIWeb","pc":"UIPc","pad":"UIPad"}

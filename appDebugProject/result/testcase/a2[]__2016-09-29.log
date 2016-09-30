@@ -1,0 +1,188 @@
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_14_53_13 	NORMAL    	Executing precommand
+2016-09-29_14_53_13 	NORMAL    	Executing steps
+2016-09-29_14_53_13 	NORMAL    	Executing postcommand
+2016-09-29_14_53_13 	NORMAL    	Executing verify
+2016-09-29_14_53_13 	NORMAL    		实际测试结果：[]
+2016-09-29_14_53_13 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_14_54_53 	NORMAL    	Executing precommand
+2016-09-29_14_54_53 	NORMAL    	Executing steps
+2016-09-29_14_54_53 	STEP      		Step_1_info->Login.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-29_14_54_53 	ERROR     	'module' object has no attribute 'Login'
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_14_55_57 	NORMAL    	Executing precommand
+2016-09-29_14_55_57 	NORMAL    	Executing steps
+2016-09-29_14_55_57 	STEP      		Step_1_info->Login.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-29_14_55_57 	ERROR     	'module' object has no attribute 'Login'
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_14_57_36 	NORMAL    	Executing precommand
+2016-09-29_14_57_36 	NORMAL    	Executing steps
+2016-09-29_14_57_36 	STEP      		Step_1_info->Login.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-29_14_57_36 	ERROR     	'module' object has no attribute 'Login'
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_14_58_37 	NORMAL    	Executing precommand
+2016-09-29_14_58_37 	NORMAL    	Executing steps
+2016-09-29_14_58_37 	STEP      		Step_1_info->Login.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-29_14_58_37 	ERROR     	'module' object has no attribute 'Login'
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_14_59_46 	NORMAL    	Executing precommand
+2016-09-29_14_59_46 	NORMAL    	Executing steps
+2016-09-29_14_59_46 	STEP      		Step_1_info->Login.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-29_14_59_46 	ERROR     	'module' object has no attribute 'Login'
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_15_01_31 	NORMAL    	Executing precommand
+2016-09-29_15_01_31 	NORMAL    	Executing steps
+2016-09-29_15_01_31 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-29_15_01_39 	PASS      		Step pass.
+2016-09-29_15_01_39 	NORMAL    	Executing postcommand
+2016-09-29_15_01_39 	NORMAL    	Executing verify
+2016-09-29_15_01_39 	NORMAL    		实际测试结果：[]
+2016-09-29_15_01_39 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_15_02_03 	NORMAL    	Executing precommand
+2016-09-29_15_02_03 	NORMAL    	Executing steps
+2016-09-29_15_02_03 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-29_15_02_07 	PASS      		Step pass.
+2016-09-29_15_02_07 	NORMAL    	Executing postcommand
+2016-09-29_15_02_07 	NORMAL    	Executing verify
+2016-09-29_15_02_07 	NORMAL    		实际测试结果：[]
+2016-09-29_15_02_07 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_15_02_50 	NORMAL    	Executing precommand
+2016-09-29_15_02_50 	NORMAL    	Executing steps
+2016-09-29_15_02_50 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-29_15_02_53 	PASS      		Step pass.
+2016-09-29_15_02_53 	NORMAL    	Executing postcommand
+2016-09-29_15_02_53 	NORMAL    	Executing verify
+2016-09-29_15_02_53 	NORMAL    		实际测试结果：[]
+2016-09-29_15_02_53 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_15_03_08 	NORMAL    	Executing precommand
+2016-09-29_15_03_08 	NORMAL    	Executing steps
+2016-09-29_15_03_08 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-29_15_03_15 	PASS      		Step pass.
+2016-09-29_15_03_15 	NORMAL    	Executing postcommand
+2016-09-29_15_03_15 	NORMAL    	Executing verify
+2016-09-29_15_03_15 	NORMAL    		实际测试结果：[]
+2016-09-29_15_03_15 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_15_04_20 	NORMAL    	Executing precommand
+2016-09-29_15_04_20 	NORMAL    	Executing steps
+2016-09-29_15_04_20 	STEP      		Step_1_info->LoginPC.TextUserName.TypeInWin("Hello MUIA.")
+2016-09-29_15_04_28 	PASS      		Step pass.
+2016-09-29_15_04_28 	NORMAL    	Executing postcommand
+2016-09-29_15_04_28 	NORMAL    	Executing verify
+2016-09-29_15_04_28 	NORMAL    		实际测试结果：[]
+2016-09-29_15_04_28 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_15_06_06 	NORMAL    	Executing precommand
+2016-09-29_15_06_07 	NORMAL    	Executing steps
+2016-09-29_15_06_07 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-29_15_06_07 	PASS      		Step pass.
+2016-09-29_15_06_07 	NORMAL    	Executing postcommand
+2016-09-29_15_06_07 	NORMAL    	Executing verify
+2016-09-29_15_06_07 	NORMAL    		实际测试结果：[]
+2016-09-29_15_06_07 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_15_20_14 	NORMAL    	Executing precommand
+2016-09-29_15_20_14 	NORMAL    	Executing steps
+2016-09-29_15_20_14 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-29_15_20_14 	PASS      		Step pass.
+2016-09-29_15_20_14 	NORMAL    	Executing postcommand
+2016-09-29_15_20_14 	NORMAL    	Executing verify
+2016-09-29_15_20_14 	NORMAL    		实际测试结果：[]
+2016-09-29_15_20_14 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_16_07_57 	NORMAL    	Executing precommand
+2016-09-29_16_07_57 	NORMAL    	Executing steps
+2016-09-29_16_07_57 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-29_16_07_57 	PASS      		Step pass.
+2016-09-29_16_07_57 	NORMAL    	Executing postcommand
+2016-09-29_16_07_57 	NORMAL    	Executing verify
+2016-09-29_16_07_57 	NORMAL    		实际测试结果：[]
+2016-09-29_16_07_57 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_16_09_06 	NORMAL    	Executing precommand
+2016-09-29_16_09_06 	NORMAL    	Executing steps
+2016-09-29_16_09_06 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-29_16_09_06 	PASS      		Step pass.
+2016-09-29_16_09_06 	NORMAL    	Executing postcommand
+2016-09-29_16_09_06 	NORMAL    	Executing verify
+2016-09-29_16_09_06 	NORMAL    		实际测试结果：[]
+2016-09-29_16_09_06 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_16_10_28 	NORMAL    	Executing precommand
+2016-09-29_16_10_28 	NORMAL    	Executing steps
+2016-09-29_16_10_28 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-29_16_10_28 	PASS      		Step pass.
+2016-09-29_16_10_28 	NORMAL    	Executing postcommand
+2016-09-29_16_10_28 	NORMAL    	Executing verify
+2016-09-29_16_10_28 	NORMAL    		实际测试结果：[]
+2016-09-29_16_10_28 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_16_12_52 	NORMAL    	Executing precommand
+2016-09-29_16_12_52 	NORMAL    	Executing steps
+2016-09-29_16_12_52 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-29_16_12_52 	PASS      		Step pass.
+2016-09-29_16_12_52 	NORMAL    	Executing postcommand
+2016-09-29_16_12_52 	NORMAL    	Executing verify
+2016-09-29_16_12_52 	NORMAL    		实际测试结果：[]
+2016-09-29_16_12_52 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_16_14_55 	NORMAL    	Executing precommand
+2016-09-29_16_14_55 	NORMAL    	Executing steps
+2016-09-29_16_14_55 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-29_16_14_55 	PASS      		Step pass.
+2016-09-29_16_14_55 	NORMAL    	Executing postcommand
+2016-09-29_16_14_55 	NORMAL    	Executing verify
+2016-09-29_16_14_55 	NORMAL    		实际测试结果：[]
+2016-09-29_16_14_55 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_16_16_01 	NORMAL    	Executing precommand
+2016-09-29_16_16_01 	NORMAL    	Executing steps
+2016-09-29_16_16_01 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-29_16_16_02 	PASS      		Step pass.
+2016-09-29_16_16_02 	NORMAL    	Executing postcommand
+2016-09-29_16_16_02 	NORMAL    	Executing verify
+2016-09-29_16_16_02 	NORMAL    		实际测试结果：[]
+2016-09-29_16_16_02 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_16_22_58 	NORMAL    	Executing precommand
+2016-09-29_16_22_58 	NORMAL    	Executing steps
+2016-09-29_16_22_58 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-29_16_22_59 	PASS      		Step pass.
+2016-09-29_16_22_59 	NORMAL    	Executing postcommand
+2016-09-29_16_22_59 	NORMAL    	Executing verify
+2016-09-29_16_22_59 	NORMAL    		实际测试结果：[]
+2016-09-29_16_22_59 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a2[]]  ***************
+2016-09-29_16_23_51 	NORMAL    	Executing precommand
+2016-09-29_16_23_51 	NORMAL    	Executing steps
+2016-09-29_16_23_51 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-29_16_23_51 	PASS      		Step pass.
+2016-09-29_16_23_51 	NORMAL    	Executing postcommand
+2016-09-29_16_23_51 	NORMAL    	Executing verify
+2016-09-29_16_23_51 	NORMAL    		实际测试结果：[]
+2016-09-29_16_23_51 	PASS      		Verify complete.[Start example test.]

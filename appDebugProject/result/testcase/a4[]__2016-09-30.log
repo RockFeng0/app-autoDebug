@@ -1,0 +1,100 @@
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-30_09_43_33 	NORMAL    	Executing precommand
+2016-09-30_09_43_33 	NORMAL    	Executing steps
+2016-09-30_09_43_33 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-30_09_43_33 	PASS      		Step pass.
+2016-09-30_09_43_33 	NORMAL    	Executing postcommand
+2016-09-30_09_43_33 	NORMAL    	Executing verify
+2016-09-30_09_43_33 	NORMAL    		实际测试结果：[]
+2016-09-30_09_43_33 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-30_10_50_15 	NORMAL    	Executing precommand
+2016-09-30_10_50_15 	NORMAL    	Executing steps
+2016-09-30_10_50_15 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-30_10_50_16 	PASS      		Step pass.
+2016-09-30_10_50_16 	NORMAL    	Executing postcommand
+2016-09-30_10_50_16 	NORMAL    	Executing verify
+2016-09-30_10_50_16 	NORMAL    		实际测试结果：[]
+2016-09-30_10_50_16 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-30_10_50_54 	NORMAL    	Executing precommand
+2016-09-30_10_50_54 	NORMAL    	Executing steps
+2016-09-30_10_50_54 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-30_10_50_55 	PASS      		Step pass.
+2016-09-30_10_50_55 	NORMAL    	Executing postcommand
+2016-09-30_10_50_55 	NORMAL    	Executing verify
+2016-09-30_10_50_55 	NORMAL    		实际测试结果：[]
+2016-09-30_10_50_55 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-30_11_01_23 	NORMAL    	Executing precommand
+2016-09-30_11_01_23 	NORMAL    	Executing steps
+2016-09-30_11_01_23 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-30_11_01_23 	PASS      		Step pass.
+2016-09-30_11_01_23 	NORMAL    	Executing postcommand
+2016-09-30_11_01_23 	NORMAL    	Executing verify
+2016-09-30_11_01_23 	NORMAL    		实际测试结果：[]
+2016-09-30_11_01_23 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-30_11_02_18 	NORMAL    	Executing precommand
+2016-09-30_11_02_18 	NORMAL    	Executing steps
+2016-09-30_11_02_18 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-30_11_02_18 	PASS      		Step pass.
+2016-09-30_11_02_18 	NORMAL    	Executing postcommand
+2016-09-30_11_02_18 	NORMAL    	Executing verify
+2016-09-30_11_02_18 	NORMAL    		实际测试结果：[]
+2016-09-30_11_02_18 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-30_11_07_38 	NORMAL    	Executing precommand
+2016-09-30_11_07_38 	NORMAL    	Executing steps
+2016-09-30_11_07_38 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-30_11_07_38 	PASS      		Step pass.
+2016-09-30_11_07_38 	NORMAL    	Executing postcommand
+2016-09-30_11_07_38 	NORMAL    	Executing verify
+2016-09-30_11_07_38 	NORMAL    		实际测试结果：[]
+2016-09-30_11_07_38 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-30_11_09_21 	NORMAL    	Executing precommand
+2016-09-30_11_09_21 	NORMAL    	Executing steps
+2016-09-30_11_09_21 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-30_11_09_21 	PASS      		Step pass.
+2016-09-30_11_09_21 	NORMAL    	Executing postcommand
+2016-09-30_11_09_21 	NORMAL    	Executing verify
+2016-09-30_11_09_21 	NORMAL    		实际测试结果：[]
+2016-09-30_11_09_21 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-30_11_36_02 	NORMAL    	Executing precommand
+2016-09-30_11_36_02 	NORMAL    	Executing steps
+2016-09-30_11_36_02 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-30_11_36_03 	PASS      		Step pass.
+2016-09-30_11_36_03 	NORMAL    	Executing postcommand
+2016-09-30_11_36_03 	NORMAL    	Executing verify
+2016-09-30_11_36_03 	NORMAL    		实际测试结果：[]
+2016-09-30_11_36_03 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-30_11_36_47 	NORMAL    	Executing precommand
+2016-09-30_11_36_47 	NORMAL    	Executing steps
+2016-09-30_11_36_47 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-30_11_36_47 	PASS      		Step pass.
+2016-09-30_11_36_47 	NORMAL    	Executing postcommand
+2016-09-30_11_36_47 	NORMAL    	Executing verify
+2016-09-30_11_36_47 	NORMAL    		实际测试结果：[]
+2016-09-30_11_36_47 	PASS      		Verify complete.[Start example test.]
+
+**************  Bruce Luo(罗科峰)'s sample test [a4[]]  ***************
+2016-09-30_11_50_20 	NORMAL    	Executing precommand
+2016-09-30_11_50_20 	NORMAL    	Executing steps
+2016-09-30_11_50_20 	STEP      		Step_1_info->WindowP.StartAppliaction(r"D:\auto\buffer\AiSchool\AiTeacherCenter\AiTeacherCenter\AiTeacher.exe")
+2016-09-30_11_50_20 	PASS      		Step pass.
+2016-09-30_11_50_20 	NORMAL    	Executing postcommand
+2016-09-30_11_50_20 	NORMAL    	Executing verify
+2016-09-30_11_50_20 	NORMAL    		实际测试结果：[]
+2016-09-30_11_50_20 	PASS      		Verify complete.[Start example test.]

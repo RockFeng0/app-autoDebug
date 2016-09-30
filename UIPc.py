@@ -32,11 +32,31 @@ try:
                              fint = ["index","timeout"],
                              fclass = "WindowP",
                              toop = "root",
-                             bottom = "ident").getClasses()        
+                             bottom = "ident").getClasses()         
     exec(feature)
 except:
     pass
 
+# class LoginPC:
+# 
+#     class TextUserName(WindowP):
+# 
+#         timeout = 10
+# 
+#         ident = '{"AutomationId" : "txtUserName"}'
+# 
+#     class PwdUser(WindowP):
+# 
+#         ident = '{"AutomationId" : "PwdUser"}'
+# 
+#     class CkbIsSavePwd(WindowP):
+# 
+#         ident = '{"AutomationId" : "ckbIsSavePwd"}'
+# 
+#     class BtnLogin(WindowP):
+# 
+#         ident = '{"AutomationId" : "BtnLogin"}'
+        
 class Result:
     '''
     result should be format:
